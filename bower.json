@@ -1,0 +1,17 @@
+{
+  "name": "perevozjik",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tatarrr <tatarrr95@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tatarrr95/perevozjik",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
